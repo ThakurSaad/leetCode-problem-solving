@@ -7,4 +7,5 @@
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-2.png)
 
 ### Problem 3 (412)
-![solve]()
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-3.png)
