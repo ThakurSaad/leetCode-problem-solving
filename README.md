@@ -9,3 +9,7 @@
 ### Problem 3 (412)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-3.png)
+
+### Problem 4 (1342)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-4.png)
