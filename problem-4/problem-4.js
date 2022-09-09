@@ -17,4 +17,6 @@ var numberOfSteps = function (num) {
       steps++;
     }
   }
+
+  return steps;
 };
