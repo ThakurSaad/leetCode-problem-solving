@@ -10,10 +10,10 @@ var numberOfSteps = function (num) {
     }
 
     if (dividedBy2 == 0) {
-      resultEachTime = resultEachTime / 2;
+      resultEachTime /= 2;
       steps++;
     } else if (dividedBy2 !== 0) {
-      resultEachTime = resultEachTime - 1;
+      resultEachTime--;
       steps++;
     }
   }
