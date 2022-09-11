@@ -46,6 +46,10 @@ Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ```
 
+#### More test cases
+
+`XVIXIII` `MMMCMXCIX` `MCMLIV` `MDCCLXXVI` `DCCLXXXIX` `MMCDXXI`
+
 #### Constraints:
 
 `1 <= s.length <= 15`
