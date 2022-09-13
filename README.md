@@ -25,3 +25,7 @@
 ### Problem 8 (242)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-8.png)
+
+### Problem 9 (268)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-9.png)
