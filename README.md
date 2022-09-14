@@ -38,6 +38,6 @@
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-11.png)
 
-### Problem 12 (26)
+### Problem 12 (88)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-12.png)
