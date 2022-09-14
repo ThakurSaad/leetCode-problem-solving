@@ -33,3 +33,7 @@
 ### Problem 10 (66)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-10.png)
+
+### Problem 11 (26)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-11.png)
