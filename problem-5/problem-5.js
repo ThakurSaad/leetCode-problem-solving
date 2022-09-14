@@ -1,21 +1,22 @@
 var twoSum = function (nums, target) {
-  let result = [];
-  let check = [];
+  let result;
 
   for (let i = 0; i < nums.length; i++) {
-    const n1 = nums[i];
+    const num1 = nums[i];
 
-    for (let i = 0; i < nums.length; i++) {
-      const n2 = nums[i];
-      const indexN1 = nums.indexOf(n1);
-      const indexN2 = nums.indexOf(n2, i);
+    for (let j = 0; j < nums.length; j++) {
+      const num2 = nums[j];
 
-        console.log(n1, n2, "indexN1:", indexN1, "indexN2:", indexN2);
+      if (i === j) {
+        continue;
+      }
+
+      const sum = num1 + num2;
+
+      if (sum === target) {
+        result = [nums.indexOf(num1), nums.indexOf(num2, j)];
+        return result;
+      }
     }
   }
-  console.log("check:", check);
-  return result;
 };
-
-const response = twoSum([3, 3, 3, 1], 6);
-console.log(response);
