@@ -45,3 +45,7 @@
 ### Problem 12 (88)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-12.png)
+
+### Problem 12 (88)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-13.png)
