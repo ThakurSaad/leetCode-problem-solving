@@ -46,6 +46,6 @@
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-12.png)
 
-### Problem 12 (88)
+### Problem 13 (69)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-13.png)
