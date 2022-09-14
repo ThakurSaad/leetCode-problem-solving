@@ -29,3 +29,7 @@
 ### Problem 9 (268)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-9.png)
+
+### Problem 10 (66)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-10.png)
