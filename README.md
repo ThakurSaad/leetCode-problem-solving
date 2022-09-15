@@ -49,3 +49,7 @@
 ### Problem 13 (69)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-13.png)
+
+### Problem 14 (136)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-14.png)
