@@ -61,3 +61,7 @@
 ### Problem 22 (118)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-22.png)
+
+### Problem 23 (67)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-23.png)
