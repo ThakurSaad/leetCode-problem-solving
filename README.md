@@ -74,6 +74,10 @@
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-19.png)
 
+### Problem 20 (258)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-20.png)
+
 ### Problem 21 (20)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-21.png)
