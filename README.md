@@ -89,3 +89,7 @@
 ### Problem 23 (67)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-23.png)
+
+### Problem 24 (70)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-24.png)
