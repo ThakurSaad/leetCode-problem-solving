@@ -1,15 +1,10 @@
 # Guide
 
 Problem no is according to **LeetCode**. That means `Problem 1480` is also `Problem 1480` on **LeetCode**
-
 <br>
-
 Folder name `problem.1.1480` means **LeetCode** `problem 1480`. `.1` means the sequence in which I solved the problems. Folder name `problem.2.1672` means **LeetCode** `problem 1672`. `.2` means the sequence in which I solved the problems.
-
 <br>
-
 In the pictures here, you can see the **runtime distribution** and **memory distribution**
-
 <br>
 
 ### Tips to search
