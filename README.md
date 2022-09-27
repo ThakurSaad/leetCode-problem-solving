@@ -116,3 +116,7 @@ In the pictures here, you can see the **runtime distribution** and **memory dist
 ### Problem 119 (25)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-25.png)
+
+### Problem 121 (26)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-26.png)
