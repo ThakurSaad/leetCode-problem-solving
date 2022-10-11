@@ -188,3 +188,7 @@ In the pictures here, you can see the **runtime distribution** and **memory dist
 ### Problem 461 (43)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-43.png)
+
+### Problem 476 (44)
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-44.png)
