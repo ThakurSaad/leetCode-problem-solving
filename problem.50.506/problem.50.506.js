@@ -4,7 +4,8 @@
  */
 
 var findRelativeRanks = function (score) {
-  const scoreArr = JSON.parse(JSON.stringify(score)).sort((a, b) => b - a);
+  const scoreArr = [...score];
+  scoreArr.sort((a, b) => b - a);
 
   const answer = [];
 
