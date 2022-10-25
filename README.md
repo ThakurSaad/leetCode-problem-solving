@@ -228,3 +228,7 @@ In the pictures here, you can see the **runtime distribution** and **memory dist
 ### Problem 520 (53)
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-53.png)
+
+### Problem 521 (54) Longest Uncommon Subsequence I
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-54.png)
