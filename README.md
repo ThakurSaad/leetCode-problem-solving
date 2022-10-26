@@ -236,3 +236,7 @@ In the pictures here, you can see the **runtime distribution** and **memory dist
 ### Problem 541 (55) Reverse String II
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-55.png)
+
+### Problem 551 (56) Student Attendance Record I
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-56.png)
