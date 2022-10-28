@@ -240,3 +240,7 @@ In the pictures here, you can see the **runtime distribution** and **memory dist
 ### Problem 551 (56) Student Attendance Record I
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-56.png)
+
+### Problem 557 (57) Reverse Words in a String III
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-57.png)
