@@ -244,3 +244,7 @@ In the pictures here, you can see the **runtime distribution** and **memory dist
 ### Problem 557 (57) Reverse Words in a String III
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-57.png)
+
+### Problem 561 (58) Array Partition
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-58.png)
