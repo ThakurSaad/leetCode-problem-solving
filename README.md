@@ -248,3 +248,7 @@ In the pictures here, you can see the **runtime distribution** and **memory dist
 ### Problem 561 (58) Array Partition
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-58.png)
+
+### Problem 575 (59) Distribute Candies
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-59.png)
