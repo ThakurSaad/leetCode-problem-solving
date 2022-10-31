@@ -252,3 +252,7 @@ In the pictures here, you can see the **runtime distribution** and **memory dist
 ### Problem 575 (59) Distribute Candies
 
 ![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-59.png)
+
+### Problem 594 (60) Longest Harmonious Subsequence
+
+![solve](https://github.com/ThakurSaad/problem-solving-easy/blob/main/assets/problem-60.png)
