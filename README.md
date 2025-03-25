@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ThakurSaad&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ThakurSaad/leetCode-problem-solving&style=for-the-badge)
 
 # Guide
 
