@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=ThakurSaad/leetCode-problem-solving&style=for-the-badge)
-
 # Guide
 
 Problem no is according to **LeetCode**. That means `Problem 1480` is also `Problem 1480` on **LeetCode**
